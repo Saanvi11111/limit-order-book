@@ -1,0 +1,16 @@
+# Build files
+build/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.a
+*.dylib
+*.so
